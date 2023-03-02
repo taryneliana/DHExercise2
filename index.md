@@ -10,7 +10,7 @@ At the end of the class you can write here a final thought on the exercise and o
 - [Link to my GitHub Repository for today](https://github.com/taryneliana/DHExercise2) and [GitHub Pages](https://taryneliana.github.io/DHExercise2/)
 - [Link to my HTML and CSS files](exercise2.html)
 - [Link to Pandoc transformations](pandoc_transformations.zip.zip)
-- [Link to my Bibliography](bibliographies_Charismatic Megafauna.html)
+- [Link to my Bibliography](bibliographies_Charismatic_Megafauna.html)
 
 ## Comments or notes about problems 
 
