@@ -9,7 +9,7 @@ At the end of the class you can write here a final thought on the exercise and o
 
 - [Link to my GitHub Repository for today]() and [GitHub Pages]()
 - [Link to my HTML and CSS files]()
-- [Link to Pandoc transformations]()
+- [Link to Pandoc transformations](pandoc_transformations.zip.zip)
 - [Link to my Bibliography](bibliographies_Charismatic Megafauna.html)
 
 ## Comments or notes about problems 
